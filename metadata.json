@@ -1,0 +1,8 @@
+{
+  "name": "Staff Engineer Task Compass",
+  "description": "A standalone, zero-dependency daily task orchestrator and prioritization engine tailored for Staff and Principal Software Engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
